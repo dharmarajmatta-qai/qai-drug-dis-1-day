@@ -1,0 +1,6 @@
+Metric,Value
+Total Samples,569
+Total Features,30
+Benign Samples,357
+Malignant Samples,212
+Missing Values,0
